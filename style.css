@@ -29,15 +29,15 @@ h1{
     color: black;
 }
 
-.bg-green{
+.box .bg-green{
     background: green;
 }
 
-.bg-yellow{
+.box .bg-yellow{
     background: yellow;
 }
 
-.bg-red{
+.box .bg-red{
     background: red;
 }
 
