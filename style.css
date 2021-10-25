@@ -27,5 +27,17 @@ h1{
     margin: 20px;
     background: rgb(1, 90, 163);
     color: black;
-
 }
+
+.bg-green{
+    background: green;
+}
+
+.bg-yellow{
+    background: yellow;
+}
+
+.bg-red{
+    background: red;
+}
+
